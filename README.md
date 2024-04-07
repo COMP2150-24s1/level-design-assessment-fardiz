@@ -49,37 +49,44 @@ You should restructure the headings below to match the order they appear in your
 Acid is introduced to the players in the first section, at the very beginning of the level, as a way to introduce the players to the game’s jumping mechanics and also to the way acid works.
 ### 2.2. Weapon Pickup (Gun) 
 The gun weapon pickup is introduced to players in the first section, right after the acid, so that players can learn how item pickups work in the game, as well as to provide players with a weapon straight away, as they become crucial throughout the rest of the game.
+![Image for 2.1 and 2.2](DocImages/Acid-GunPickup.PNG)
 ### 2.3. Chompers
 Chompers are also introduced to players in the first section, inside a small cave right after the gun pickup object, to introduce players to the way the chomper works, as well as to the game’s shooting mechanic.
 ### 2.4. Spitters
 Spitters are introduced to the player simultaneously with chompers in the first section, in the cave. This way players are introduced to the two different types of enemies in the game, as well as the shooting mechanic
 ### 2.5. Checkpoints
 Checkpoints are introduced to the player after the cave with the enemies, at the end of the first section, so that players are able to save their progress before beginning the next section, where the intensity rises significantly.
+![Image for 2.3, 2.4, 2.5](DocImages/Enemys-Checkpoint.PNG)
 ### 2.6. Moving Platforms
 After the checkpoint at the end of section one, a moving platform is placed in order to transition players to the second section, as well as show them the timing of moving platforms.
+![Image for 2.6](DocImages/MovingPlatform.PNG)
 ### 2.7. Spikes
 Spikes are introduced to players at the beginning of the second section - after jumping off the moving platform and fighting the first spitter, there is a small hole with spikes at the bottom that players must jump over.
 ### 2.8. Health Pickups
 Health pickups are introduced to players after the first wave of enemies in the second section, so that players can recover their health after fighting the chompers and spitters that are guarding it and also prepare to fight the next wave of enemies.
+![Image for 2.7, 2.8](DocImages/spikes-healthpickup.PNG)
 ### 2.9. Keys
 Keys are introduced to the players in the second section, where after fighting the enemies, they are able to pick up the first and second keys for the final key door. This also introduces players to the key inventory in the top-right corner.
 ### 2.10. Weapon Pickup (Staff)
 The staff weapon pickup is introduced to the players in the second section after the first wave of enemies, where players must go into a small cave and pick it up, and then there is a breakable column to introduce players to the staff mechanic.
+![Image for 2.8, 2.9](DocImages/keys-staff.PNG)
 ### 2.11. Passthrough Platform
 Passthrough platforms are introduced to players near the end of the level in the third section, where players are required to use a passthrough platform to jump over a large gap to get to the final key.
+![Image for 2.11](DocImages/passthroughbox.PNG)
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
 
 No additional words are necessary for this section (any words should only be within your images/diagrams).
  
 ### 3.1. Molecule Diagram
-
+![Molecule Diagram](DocImages/MoleculeDiagram.PNG)
 ### 3.2. Level Map – Section 1
-
+![Section 1](DocImages/Section1.PNG)
 ### 3.3.	Level Map – Section 2
-
+![Section 2](DocImages/Section2.PNG)
 ### 3.4.	Level Map – Section 3
-
+![Section 3 pt 1](DocImages/Section3-1.PNG)
+![Section 3 pt 2](DocImages/Section3-2.PNG>)
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
 
